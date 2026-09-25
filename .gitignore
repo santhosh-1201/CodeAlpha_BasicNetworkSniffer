@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# your own captures and logs
+captures/
+*.log
+capture*.pcap
+capture*.csv
+capture*.jsonl
